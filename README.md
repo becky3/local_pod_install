@@ -1,0 +1,2 @@
+# local_pod_install
+ローカルフォルダにあるコードからpodinstallを行います
