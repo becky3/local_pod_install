@@ -17,4 +17,5 @@ pod install
 
 `pod-local-install-test.xcworkspace`
 をダブルクリックして立ち上げるとプロジェクトが開きます。
+
 シミュレータで実行してみてください。
